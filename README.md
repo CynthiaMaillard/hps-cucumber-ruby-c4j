@@ -17,7 +17,7 @@ System under test
 The SUT is a (not that much) simple coffee machine. You start it, you ask for a coffee and you get it, sometimes. But most of times you have to add water or beans, empty the grounds. You have an automatic expresso machine at work or at home? So you know how it goes :-)
 
 Update tests
--------------
+----------------
 
 
 To update the tests:
